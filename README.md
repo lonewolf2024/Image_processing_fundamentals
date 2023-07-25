@@ -16,3 +16,5 @@ An image of 200 x 100 in RGB format would be of size 200 x 100 x 3 (3 represents
 Same image in grayscale format would be 200 x 100.
 
 
+
+
